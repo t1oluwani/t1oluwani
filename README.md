@@ -60,7 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/racket.svg" alt="DrRacket" width="40" height="40"/>
+    <img src="https://www.veryicon.com/icon/png/System/Very-Basic/Racket.png" alt="DrRacket" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
