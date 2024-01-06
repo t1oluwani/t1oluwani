@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/json.svg" alt="JSON" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/>
   </a>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
@@ -64,9 +64,6 @@
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
-  </a>
-  <a href="https://securitylab.github.com/tools/codeql" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/codeql.svg" alt="CodeQL" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
