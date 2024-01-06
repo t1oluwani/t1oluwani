@@ -40,20 +40,6 @@
   </a>
   <br>
 
-  <!-- Operating Systems -->
-  <p>Operating Systems</p>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <br>
-
-  <!-- Scripting and Automation -->
-  <p>Scripting and Automation</p>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
-  </a>
-  <br>
-
   <!-- Data Analysis and Statistics -->
   <p>Data Analysis and Statistics</p>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
@@ -109,6 +95,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   </a>
 </p>
+
+<!-- Operating Systems -->
+  <p>Operating Systems</p>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <br>
+
+  <!-- Scripting and Automation -->
+  <p>Scripting and Automation</p>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
+  </a>
+  <br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t1oluwani&show_icons=true&locale=en" alt="t1oluwani" /></p>
