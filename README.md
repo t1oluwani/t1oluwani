@@ -50,7 +50,7 @@
   <!-- Scripting and Automation -->
   <p>Scripting and Automation</p>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
   </a>
   <br>
 
