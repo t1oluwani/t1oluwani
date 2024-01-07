@@ -85,17 +85,13 @@
   </a>
 </p>
 
-<!-- Operating Systems -->
-  <p>Operating Systems</p>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <br>
-
   <!-- Scripting and Automation -->
   <p>Scripting and Automation</p>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <br>
 
