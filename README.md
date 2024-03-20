@@ -81,7 +81,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node" alt="Node.JS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-plain.svg" alt="Node.JS" width="40" height="40"/>
   </a>
   <br>
 
