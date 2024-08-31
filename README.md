@@ -1,5 +1,5 @@
 <div>
-  <img src="Personality_Image.png" alt="Personality Image of Tioluwani" width="1000"/>
+  <img src="Personality_Image(resize).png" alt="Personality Image of Tioluwani" width="1000"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Tioluwani Akinloye</h1>
