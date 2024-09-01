@@ -32,6 +32,9 @@
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
       </a>
+      <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://racket-lang.org/img/racket-logo.svg" alt="DrRacket" width="40" height="40"/>
+      </a>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
       </a>
@@ -70,23 +73,6 @@
     </td>
   </tr>
   <tr>
-    <th>Data Analysis and Statistics</th>
-    <td>
-      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-      </a>
-      <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://racket-lang.org/img/racket-logo.svg" alt="DrRacket" width="40" height="40"/>
-      </a>
-      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
-      </a>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <th>Frontend Development</th>
     <td>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -117,6 +103,20 @@
       </a>
       <a href="https://laravel.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Data Analysis and Statistics</th>
+    <td>
+      <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+      </a>
+      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
+      </a>
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
       </a>
     </td>
   </tr>
