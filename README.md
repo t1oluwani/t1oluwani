@@ -103,7 +103,7 @@
     </td>
   </tr>
   <tr>
-    <th>Source Code Editors and Softwares</th>
+    <th>Programming Softwares</th>
     <td>
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
@@ -111,11 +111,14 @@
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
       </a>
-      <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="LaTeX" width="40" height="40"/>
-      </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
+      </a>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
       </a>
       <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
@@ -123,10 +126,19 @@
     </td>
   </tr>
   <tr>
-    <th>Scripting and Automation</th>
+    <th>Scripting and Commands</th>
     <td>
       <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
       </a>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      </a>
+      <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<!--   Github Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t1oluwani&show_icons=true&locale=en" alt="t1oluwani" /></p>
