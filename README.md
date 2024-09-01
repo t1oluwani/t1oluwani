@@ -2,7 +2,7 @@
   <img src="Personality_Image(cropped_top).png" alt="Personality Image of Tioluwani" width="1000"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Tioluwani Akinloye</h1>
+<h1 align="center">Hi 👋🏾, I'm Tioluwani Akinloye</h1>
 <h3 align="center">A Software Developer From Edmonton, AB</h3>
 
 - 🌱 I’m currently learning **Full Stack Engineering**
