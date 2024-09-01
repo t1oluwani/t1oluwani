@@ -44,6 +44,32 @@
     </td>
   </tr>
   <tr>
+    <th>Programming Tools/Softwares</th>
+    <td>
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+      </a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+      </a>
+      <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
+      </a>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+      </a>
+      <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <th>Data Analysis and Statistics</th>
     <td>
       <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
@@ -92,43 +118,6 @@
     </td>
   </tr>
   <tr>
-    <th>Databases and File formats</th>
-    <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="40" height="40"/>
-      </a>
-      <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Programming Tools/Softwares</th>
-    <td>
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-      </a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-      </a>
-      <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
-      </a>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-      </a>
-      <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <th>Scripting and Commands</th>
     <td>
       <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
@@ -139,6 +128,17 @@
       </a>
       <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Databases and File formats</th>
+    <td>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="40" height="40"/>
+      </a>
+      <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/>
       </a>
     </td>
   </tr>
