@@ -73,23 +73,6 @@
     </td>
   </tr>
   <tr>
-    <th>Frontend Development</th>
-    <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-      </a>
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <th>Backend Development</th>
     <td>
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
@@ -103,6 +86,26 @@
       </a>
       <a href="https://laravel.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+      </a>
+      <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend Development</th>
+    <td>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+      </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -135,13 +138,13 @@
     </td>
   </tr>
   <tr>
-    <th>Databases and File formats</th>
+    <th>Databases</th>
     <td>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="40" height="40"/>
       </a>
-      <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/>
+      <a href="https://firebase.google.com/products/realtime-database" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase Realtime Database" width="40" height="40"/>
       </a>
     </td>
   </tr>
