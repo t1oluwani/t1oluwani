@@ -70,6 +70,9 @@
       <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
       </a>
+      <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress.svg" alt="Cypress" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -90,6 +93,9 @@
       <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
       </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -107,6 +113,9 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
       </a>
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/>
+    </a>
     </td>
   </tr>
   <tr>
