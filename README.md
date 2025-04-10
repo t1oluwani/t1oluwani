@@ -44,6 +44,9 @@
       <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
       </a>
+      <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -72,6 +75,9 @@
       </a>
       <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress.svg" alt="Cypress" width="40" height="40"/>
+      </a>
+      <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+        <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -154,6 +160,9 @@
       </a>
       <a href="https://firebase.google.com/products/realtime-database" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase Realtime Database" width="40" height="40"/>
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
       </a>
     </td>
   </tr>
