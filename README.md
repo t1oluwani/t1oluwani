@@ -167,5 +167,9 @@
     </td>
   </tr>
 </table>
-<!--   Github Stats -->
+
+<!-- Github Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t1oluwani&show_icons=true&locale=en" alt="t1oluwani" /></p>
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=t1oluwani&color=blue)
