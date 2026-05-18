@@ -4,6 +4,10 @@
   <br/>
 
   <h1>Tioluwani Akinloye</h1>
+  <img 
+  src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=24&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Developer;Backend+Systems+Engineer;AI+%26+Computer+Vision+Developer"
+  alt="Typing SVG"
+  />
   <p><em>Software Developer &nbsp;·&nbsp; Edmonton, AB</em></p>
 
   <a href="https://www.linkedin.com/in/tioluwani-akinloye-255a481b7/" target="_blank">
