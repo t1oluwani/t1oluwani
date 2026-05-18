@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Personality_Image(cropped_top).png" alt="Tioluwani Akinloye" width="600" style="border-radius: 12px;" />
 
-  <br/><br/>
+  <br/>
 
   <h1>Tioluwani Akinloye</h1>
   <p><em>Software Developer &nbsp;·&nbsp; Edmonton, AB</em></p>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://img.shields.io/badge/Currently%20Learning-Visual%20Computing-8A2BE2?style=flat-square" />
 
@@ -88,7 +88,7 @@
 
 <table><tr>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t1oluwani&theme=github_dark"/></td>
-<td><img src="https://github-readme-stats-five-kappa-61.vercel.app/api/top-langs/?username=t1oluwani&hide=HTML&langs_count=8&layout=compact&border_radius=10&theme=dark&title_color=ffffff&text_color=ffffff&border_color=444444&bg_color=0d1117" width="350"/></td>
+<td><img src="https://github-readme-stats-five-kappa-61.vercel.app/api/top-langs/?username=t1oluwani&hide=HTML&langs_count=8&layout=compact&border_radius=10&theme=dark&title_color=005abf&text_color=758e9a&border_color=444444&bg_color=0d1117" width="350"/></td>
 </tr></table>
 
 </div>
