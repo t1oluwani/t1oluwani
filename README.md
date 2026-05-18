@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋🏾, I'm Tioluwani Akinloye</h1>
 <h3 align="center">A Software Developer From Edmonton, AB</h3>
 
-- 🌱 I’m currently learning **Systems Engineering**
+- 🌱 I’m currently learning **Visual Computing**
 - 📫 How to reach me **akinloyetioluwani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
