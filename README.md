@@ -168,8 +168,16 @@
   </tr>
 </table>
 
-<!-- Github Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t1oluwani&show_icons=true&locale=en" alt="t1oluwani" /></p>
+<!-- Github Stats (Down) -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t1oluwani&show_icons=true&locale=en" alt="t1oluwani" /></p> -->
+
+<!-- Profile Stats -->
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t1oluwani&theme=github_dark)
+
+<!-- Other Alternatives -->
+<!-- ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t1oluwani&theme=github_dark) -->
+<!-- ![Github Streaks](https://streak-stats.demolab.com?user=t1oluwani&theme=github-dark) -->
+<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=t1oluwani&theme=github-dark)](https://github.com/t1oluwani) -->
 
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=t1oluwani&color=blue)
