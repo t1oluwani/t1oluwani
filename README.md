@@ -24,6 +24,8 @@
 </div>
 
 ---
+<div align="center">
+
 
 `Languages`
 
@@ -88,6 +90,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Google%20Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+</div>
 ---
 
 <div align="center">
